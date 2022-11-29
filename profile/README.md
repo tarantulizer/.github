@@ -1,1 +1,2 @@
-# Tarantulizer - Scalable Web Scraping Framework 
+# Tarantulizer
+## Scalable Web Scraping Framework
