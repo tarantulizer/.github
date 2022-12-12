@@ -30,3 +30,7 @@ Here are the tools and technologies that makes up the **Tarantulizer Framework**
 
 ### Cloud Platform
 * Amazon AWS
+
+## System Design
+
+![basic-web-scraper](https://user-images.githubusercontent.com/26208205/207125285-ba49af96-e631-4618-8b41-20fa7aa337e5.png)
